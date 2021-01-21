@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatRub_v1", "StatRub_v1.csproj", "{BDFA9A44-9C90-4E89-9F55-28EA704E3B56}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9A65A1FA-9D0D-4E7A-815C-E9B8B3C89740}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDFA9A44-9C90-4E89-9F55-28EA704E3B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFA9A44-9C90-4E89-9F55-28EA704E3B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFA9A44-9C90-4E89-9F55-28EA704E3B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFA9A44-9C90-4E89-9F55-28EA704E3B56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7350157B-CD10-4834-96EC-CBCA66DD3C63}
+	EndGlobalSection
+EndGlobal
